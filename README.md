@@ -20,7 +20,7 @@ This project was built as part of my growing interest in SaaS platforms, AI-assi
 - GitHub
 
 ## Live Demo
-[[Add your Netlify URL here]](https://rutasv.netlify.app/#/)
+(https://rutasv.netlify.app/#/)
 
 ## Purpose
 The goal of this project was to explore how AI tools and modern web technologies can accelerate development and create practical business solutions.
